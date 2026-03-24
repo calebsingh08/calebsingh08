@@ -49,7 +49,9 @@ I’m particularly interested in using data to solve real-world business problem
 
 – Worked with structured guidelines to deliver high-quality datasets within deadlines
 
-👉 Relevance: Strong experience in data labeling, validation, and quality control
+👉 Relevance: 
+
+Strong experience in data labeling, validation, and quality control
 
 
 ### 🔹 Sr. US Recruiter — Spectraforce Technologies
